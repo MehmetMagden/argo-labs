@@ -1,0 +1,541 @@
+.
+./tümdosyalar.txt
+./staging
+./staging/kustomization.yaml
+./staging/service.yaml
+./tum_kodlar.txt
+./.git
+./.git/gk
+./.git/gk/config
+./.git/index
+./.git/info
+./.git/info/exclude
+./.git/HEAD
+./.git/config
+./.git/logs
+./.git/logs/HEAD
+./.git/logs/refs
+./.git/logs/refs/heads
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes
+./.git/logs/refs/remotes/origin
+./.git/logs/refs/remotes/origin/HEAD
+./.git/hooks
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/commit-msg.sample
+./.git/branches
+./.git/packed-refs
+./.git/refs
+./.git/refs/tags
+./.git/refs/heads
+./.git/refs/heads/main
+./.git/refs/remotes
+./.git/refs/remotes/origin
+./.git/refs/remotes/origin/HEAD
+./.git/objects
+./.git/objects/67
+./.git/objects/67/5cc62d1baf278de59a83379fe578b95b7ec194
+./.git/objects/68
+./.git/objects/68/0f39792f09e6e62ba7c85db48688e8325c58a5
+./.git/objects/9a
+./.git/objects/9a/6ea0c07fc5b1a78f4f404b20609cb2d4820f2d
+./.git/objects/27
+./.git/objects/27/ee6b3f4a42d1b150fba032f3c6b1408a788cec
+./.git/objects/27/3998a1be8089b531f710a017abe3d7a6ce25bc
+./.git/objects/26
+./.git/objects/26/1eeb9e9f8b2b4b0d119366dda99c6fd7d35c64
+./.git/objects/51
+./.git/objects/51/532ea587b668abc5fcee1581f0111acca9f4d4
+./.git/objects/af
+./.git/objects/af/8df2420467fabbd4b88f2975f68171b46c4189
+./.git/objects/a0
+./.git/objects/a0/c9718ff28091a25ce0b522140fd3c9b1dc72f6
+./.git/objects/a7
+./.git/objects/a7/5aff4b03d4af3b7780d709a6109b155ae44b28
+./.git/objects/75
+./.git/objects/75/cff1e64a2b4a062b8967f9487d64508a6244b7
+./.git/objects/ca
+./.git/objects/ca/e6f290fcba770d836689fa0d74970c12244121
+./.git/objects/ca/e3cd931c8aa345d4691df695d008bcb8b21075
+./.git/objects/aa
+./.git/objects/aa/f7c090fa94caaba994dbd106cb189b5cd7ebd9
+./.git/objects/a3
+./.git/objects/a3/7959c867f79f2d7c0430929ca379e9c3df9bac
+./.git/objects/47
+./.git/objects/47/63356717dcf28974d0ce06354dbdebe132d0d0
+./.git/objects/info
+./.git/objects/41
+./.git/objects/41/7afb3dc4eff0e09d081dc4bae600200a37a177
+./.git/objects/1a
+./.git/objects/1a/a968bafd4f1f7291e4b208c028f4b2415cfe2a
+./.git/objects/b5
+./.git/objects/b5/13a2b1bdae9e1239aa5372cfe3219d56a2c284
+./.git/objects/03
+./.git/objects/03/c1f7b03b75f39a08bfb5602f822e4e4e5b5b24
+./.git/objects/d0
+./.git/objects/d0/8460127ec8052e74f8781b22b35c91936d5371
+./.git/objects/89
+./.git/objects/89/46cacb1f7d35d1575504c56909b6bfa9f1b83d
+./.git/objects/95
+./.git/objects/95/5e18cb31200bdfc8320553caa0d418708915b6
+./.git/objects/6c
+./.git/objects/6c/62f03fe6e24e599dc98ede3b41fd7f1759dc7e
+./.git/objects/5f
+./.git/objects/5f/d23572da54a2c21a01edd48814f3036b1babbe
+./.git/objects/a6
+./.git/objects/a6/cc8f56444d1a3e6318f4c3d7f48e67d8851172
+./.git/objects/85
+./.git/objects/85/5ceb00367fe17f6d93bbc545bc56ff1aaf0781
+./.git/objects/5a
+./.git/objects/5a/881f5b9792de323f3d17ac71f3b36517b4f463
+./.git/objects/2b
+./.git/objects/2b/e8a8cfb9059abd8a90862773fd349fed7ef850
+./.git/objects/64
+./.git/objects/64/8801e7f9262b04d4b278503bd3f2a17ecc9e52
+./.git/objects/64/dfba8e4103f5e2dd29e2f0bc5bba24496dfe20
+./.git/objects/6d
+./.git/objects/6d/c4c63454df408205284d5219573644515b474a
+./.git/objects/pack
+./.git/objects/ea
+./.git/objects/ea/00f7d414c267d404d465e1d8348303553f4e13
+./.git/objects/e5
+./.git/objects/e5/96e97846fddaeba46fe46454e67a4a3ef32847
+./.git/objects/e5/f28ba776bb83f98ba524240167b7576885d673
+./.git/objects/1e
+./.git/objects/1e/f6c1356000297ecd0bf39092a8d72364a18de5
+./.git/objects/3a
+./.git/objects/3a/45138a36bb1c4bfbc7c3f64953d08243701687
+./.git/objects/74
+./.git/objects/74/e2307054cb2bac003cd9b95952007c931d467c
+./.git/objects/bc
+./.git/objects/bc/61c85b20386e51a2e590f36b0758882f94b21d
+./.git/objects/bd
+./.git/objects/bd/08eca51acf475d14ad4ba89aed3a9c777f7d8c
+./.git/objects/02
+./.git/objects/02/657c4fbb6b23bc2e9d6e61a4f85caf3533e8e3
+./.git/objects/02/bbc3211b3d598a0fd2107f6d1b43665f52db7f
+./.git/objects/3d
+./.git/objects/3d/e00581bed4adf2837f986d29ff84c53a37dc78
+./.git/objects/e9
+./.git/objects/e9/3e64e9db61c3606ca2cd956e41a3698ac95640
+./.git/objects/e1
+./.git/objects/e1/3016ea86c979b4b18037fdf194a45b687bb271
+./.git/objects/59
+./.git/objects/59/ed6f2cc43659ac30cab137db358f045438d19f
+./.git/objects/59/b5183b6d6bd227aa28a3e82fd34b29f7e89922
+./.git/objects/de
+./.git/objects/de/1bdebebb1a3bd855da916a0ceb69b5bd0e4908
+./.git/objects/39
+./.git/objects/39/342a3aacc1410782861afbd5e22577c6491773
+./.git/objects/df
+./.git/objects/df/fc32ffe8b96548778c8d46138f68e6fa1643b6
+./.git/objects/5c
+./.git/objects/5c/f7ada4def7c433e4d94eda662ea937bf818283
+./.git/objects/28
+./.git/objects/28/5cd57030561eb10c10c0de867ea3d77bfffdaf
+./.git/objects/78
+./.git/objects/78/4e69576586f518f485d5c9b7e4b32059ef848c
+./.git/objects/9f
+./.git/objects/9f/0f95bfc4abaf66d813bb1813c1bc1ca7698f93
+./.git/objects/49
+./.git/objects/49/beae644d17ee0fb2873a9689678f41f85bb17e
+./.git/objects/f0
+./.git/objects/f0/91080f4681848468d2bfbcb3a7b6039e7a712a
+./.git/objects/f0/bafb75d760f4d47b69acab229e985e103dbf36
+./.git/objects/eb
+./.git/objects/eb/4ff45f02781c08e7217f130d854ebe4f566ee7
+./.git/objects/91
+./.git/objects/91/6407120ec58e4803a884bb6ef8d8129b16d592
+./.git/objects/b6
+./.git/objects/b6/a9ff42a9f850c0605fc39fc677f7539bca86a0
+./.git/objects/b6/04a3188d19e1b9ab21082d835976d7405af7e0
+./.git/objects/70
+./.git/objects/70/41d322308c2fc371766ef4cadb454f09ea038e
+./.git/objects/76
+./.git/objects/76/4d3339bbae16d77f95c0bf61508d3c1549ebb9
+./.git/objects/76/c79ee7eef3157019d92f821743cb5196da84ba
+./.git/objects/76/69dd21dc65d9521e3d2007606e0ad90a455d73
+./.git/description
+./base
+./base/kustomization.yaml
+./base/service.yaml
+./base/preview-service.yaml
+./base/rollout.yaml
+./LICENSE
+./README.md
+==================================================
+DOSYA: ./tümdosyalar.txt
+==================================================
+
+
+
+==================================================
+DOSYA: ./staging/kustomization.yaml
+==================================================
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+- ../base
+namespace: staging
+commonAnnotations:
+  supported-by: sre@example.com
+labels:
+- includeSelectors: false
+  pairs:
+    project: instavote
+patches:
+- path: service.yaml
+
+images:
+- name: schoolofdevops/vote
+  newName: dockersamples/examplevotingapp_vote
+  newTag: before
+
+
+
+==================================================
+DOSYA: ./staging/service.yaml
+==================================================
+apiVersion: v1
+kind: Service
+metadata:
+  name: vote
+spec:
+  ports:
+  - name: "80"
+    nodePort: 30000
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  type: NodePort
+
+
+
+==================================================
+DOSYA: ./tum_kodlar.txt
+==================================================
+
+
+
+==================================================
+DOSYA: ./base/kustomization.yaml
+==================================================
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+- rollout.yaml
+- service.yaml
+- preview-service.yaml
+
+
+
+==================================================
+DOSYA: ./base/service.yaml
+==================================================
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: vote
+    tier: front
+  name: vote
+spec:
+  ports:
+  - name: "80"
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: vote
+  type: ClusterIP
+
+
+
+==================================================
+DOSYA: ./base/preview-service.yaml
+==================================================
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vote-preview
+  labels:
+    role: vote
+spec:
+  selector:
+    app: vote
+  ports:
+    - port: 80
+      targetPort: 80
+      protocol: TCP
+      nodePort: 30100
+  type: NodePort
+
+
+==================================================
+DOSYA: ./base/rollout.yaml
+==================================================
+apiVersion: argoproj.io/v1alpha1 
+kind: Rollout
+metadata:
+  labels:
+    app: vote
+    tier: front
+  name: vote
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: vote
+  strategy:
+    blueGreen:
+      autoPromotionEnabled: true
+      autoPromotionSeconds: 30
+      activeService: vote
+      previewService: vote-preview      
+  template:
+    metadata:
+      labels:
+        app: vote
+        tier: front
+    spec:
+      containers:
+      - image: schoolofdevops/vote:v2
+        name: vote
+        imagePullPolicy: Always
+        resources: 
+          requests:
+            cpu: "50m"
+            memory: "64Mi"
+          limits: 
+            cpu: "250m"
+            memory: "128Mi"
+
+
+
+
+==================================================
+DOSYA: ./LICENSE
+==================================================
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+
+==================================================
+DOSYA: ./README.md
+==================================================
+# vote-deploy
+Kubernetes Deployment Code for Vote App
+
+
+
