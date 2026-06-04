@@ -18,4 +18,4 @@ patches:
 images:
 - name: schoolofdevops/vote
   newName: dockersamples/examplevotingapp_vote
-  newTag: before
+  newTag: after

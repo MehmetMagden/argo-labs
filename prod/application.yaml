@@ -1,0 +1,20 @@
+
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: vote-prod
+  namespace: argocd
+spec:
+  destination:
+    namespace: prod
+    server: https://kubernetes.default.svc
+  project: instravote
+  source:
+    path: prod
+    repoURL: https://github.com/MehmetMagden/argo-labs.git
+    targetRevision: release
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+
